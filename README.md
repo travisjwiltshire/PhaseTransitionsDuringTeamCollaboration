@@ -5,4 +5,4 @@ This repository includes an example data set and script for the analyses include
 If you use these scripts, please be sure to cite the associated paper. Pagination will be updated when available.
 Wiltshire, T. J., Butner, J. E., & Fiore, S. M. (In press). Phase transitions during team collaboration. Cognitive Science.
 
-If there are any questions or comments, do not hesitate to contact me: wiltshire@sdu.dk
+If you have any questions or comments, do not hesitate to contact me: wiltshire@sdu.dk
